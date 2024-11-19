@@ -1,4 +1,4 @@
-# Olá, eu sou Samara (Sam)! 👋
+# Olá, eu sou a Sam! 👋
 
 ## 🚀 Sobre mim
 
@@ -7,6 +7,8 @@ Sou uma desenvolvedora de software apaixonada por criar soluções eficientes e 
 📍 **Localização:** [Brazil]  
 🔗 **LinkedIn:** [(https://www.linkedin.com/in/samara-barbosa-cavalcanti-482942264/)]  
 📧 **E-mail:** [samara.cavalcanti2x@gmail.com]
+
+![Gatinho fofo](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
