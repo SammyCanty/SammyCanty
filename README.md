@@ -8,7 +8,7 @@ Sou uma desenvolvedora de software apaixonada por criar soluções eficientes e 
 🔗 **LinkedIn:** [(https://www.linkedin.com/in/samara-barbosa-cavalcanti-482942264/)]  
 📧 **E-mail:** [samara.cavalcanti2x@gmail.com]
 
-![Gatinho fofo]((https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE))
+![Gatinho fofo](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
